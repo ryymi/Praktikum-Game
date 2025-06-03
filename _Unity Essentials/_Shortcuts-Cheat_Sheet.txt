@@ -1,0 +1,20 @@
+Unity shortcuts reference
+
+Scene view navigation:
+- View: Tahan tombol kanan mouse dan seret.
+- Frame: Tekan F di tampilan Scene atau klik dua kali GameObject di jendela Hierarki
+- Orbit:  Tahan Alt (macOS: tahan Option) dan seret tombol kiri mouse.
+- Zoom: Scroll atau tahan Alt (macOS: tahan Option) dan seret tombol kanan mouse.
+- Flythrough mode: Tahan tombol kanan mouse dan gunakan tombol WASD (serta tombol Q dan E untuk bergerak ke bawah dan atas).
+
+Scene view tools shortcuts:
+- View: Q
+- Move: W
+- Rotate: E
+- Scale: R
+- Rect: T
+- Transform: Y
+
+Miscellaneous shortcuts:
+- Undo: Ctrl+Z (macOS: Cmd+Z)
+- Save: Ctrl+S (macOS: Cmd+S)
